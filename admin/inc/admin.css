@@ -1,0 +1,35 @@
+#menu {
+  height: 17px;
+}
+
+#menu LI A:link, #menu LI A:visited {
+  height: 17px;
+  line-height: 17px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #0A0A0A;
+}
+
+#menu LI A:hover, #menu LI A:active {
+  color: #C54913;
+}
+
+.controls {
+  float: left;
+  width: 50px;
+  margin-left: -50px;
+}
+.controls IMG {
+  vertical-align: middle;
+  margin: 0 2px;
+}
+
+#submenu A {
+  margin-right: 20px;
+}
+
+#alert {
+  background: #FBF9F3;
+  color: #DF0808;
+  font-weight: bold;
+}

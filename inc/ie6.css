@@ -1,0 +1,45 @@
+#logo {
+  margin: 37px 0 35px 0;
+}
+
+#map {
+  margin: 9px 0 11px;
+}
+
+A#facebook:link, * html A#facebook:visited {
+  margin: 11px auto 0;
+}
+
+#menu {
+  margin: 15px 0 4px 0;
+}
+
+#menu LI A {
+  cursor: pointer;
+}
+
+#menu LI UL LI {
+  float: left;
+}
+
+#menu LI UL LI A {
+  *overflow: visible;
+}
+
+#slogan {
+  margin: 11px 0 0;
+}
+
+#content-top {
+  height: 10px;
+}
+
+#rotating {
+  margin-right: 20px;
+  position: relative;
+  top: 7px;
+}
+
+* html #rotating {
+  margin-right: 10px;
+}
