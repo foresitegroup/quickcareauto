@@ -59,7 +59,16 @@ function email($address, $name="") {
       <hr>
 
       <br>
-      <a href="https://www.facebook.com/pages/Quick-Care-Auto/145397368834683?sk=photos_stream&tab=photos_albums"><img src="images/spiff-gallery.png" alt="Gallery"></a><br>
+      <div class="special">
+        <img src="images/OurNeighborhood.jpg" alt="Our Neighbohood">
+        <img src="images/logo-thiensville.jpg" alt="Village of Thiensville">
+        <div>
+          Get more from your appointment by visiting our neighborhood businesses.
+        </div>
+        <br>
+        <a href="our-neighborhood.php" class="arrow">More Info</a>
+      </div>
+      <br>
 
       <a href="http://www.facebook.com/pages/Quick-Care-Auto/145397368834683?v=info" id="facebook"></a>
       <a href="http://twitter.com/Quickcareauto" id="twitter"></a>
@@ -74,8 +83,6 @@ function email($address, $name="") {
       </form>
 
       <img src="images/credit-cards.jpg" alt="MasterCard / Visa" style="margin-top: 40px;">
-
-      <!--<a href="detailing-gallery.php"><img src="images/spiff-detailing-gallery.jpg" alt="SEE OUR Detailing Gallery" style="margin-top: 15px;"></a>-->
     </div> <!-- END sidebar -->
 
     <div id="main">
@@ -84,39 +91,20 @@ function email($address, $name="") {
           <li>
             <a href="." id="m1"></a>
             <ul>
-              <!--<li><a href=".">Home</a></li>-->
               <li><a href="about-us.php">About Us</a></li>
               <li><a href="testimonials.php">Testimonials</a></li>
             </ul>
           </li>
           <li>
             <a href="general-services.php" id="m2"></a>
-            <!--<ul>
-              <li><a href="general-services.php">General Services</a></li>
-              <li><a href="resources.php">Resources</a></li>
-            </ul>-->
-          </li>
-          <li>
-            <a href="detailing.php" id="m3"></a>
-<!--             <ul>
-              <li><a href="detailing.php">Detailing</a></li>
-              <li><a href="detailing-gallery.php">Detailing Gallery</a></li>
-              <li><a href="resources.php">Resources</a></li>
-            </ul> -->
           </li>
           <li><a href="resources.php" id="m3b"></a></li>
           <li>
             <a href="specials.php" id="m4"></a>
-            <!--<ul>
-              <li><a href="specials.php">Specials</a></li>
-              <li><a href="auto-classes.php">Auto Classes</a></li>
-            </ul>-->
           </li>
-          <li><a href="cars-for-sale.php" id="m5"></a></li>
           <li>
             <a href="location-contact.php" id="m6"></a>
             <ul>
-              <!--<li><a href="location-contact.php">Location/Contact</a></li>-->
               <li><a href="our-neighborhood.php">Our Neighborhood</a></li>
             </ul>
           </li>

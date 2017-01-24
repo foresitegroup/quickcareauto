@@ -323,6 +323,28 @@ A.arrow:hover, A.arrow:active {
   width: 138px;
 }
 
+#sidebar .special {
+  float: none;
+  width: 158px;
+  text-align: left;
+}
+
+#sidebar .special IMG {
+  max-width: 100%;
+  height: auto;
+}
+
+.footer-logos {
+  text-align: center;
+}
+
+.footer-logos IMG {
+  max-width: 40%;
+  height: auto;
+  margin: 0 4.7%;
+  vertical-align: middle;
+}
+
 #footer {
   margin: 22px auto 22px;
   width: 772px;

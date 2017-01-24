@@ -21,6 +21,25 @@ While you could enjoy our well appointed waiting area while your car is getting 
 
 All just minutes from our door:<br>
 <br>
+
+<strong>Fiddleheads</strong><br>
+192 South Main Street<br>
+(262) 241-8819<br>
+<a href="https://www.fiddleheadscoffee.com/t-thiensville.aspx">fiddleheadscoffee.com</a><br>
+<br>
+
+<strong>The North Shore Niche</strong><br>
+188 South Main Street<br>
+(262) 957-71269<br>
+<a href="https://www.facebook.com/The-North-Shore-Niche-524772690998920/">facebook.com</a><br>
+<br>
+
+<strong>E-Collectique Runway Boutique</strong><br>
+174 South Main Street<br>
+(262) 242-2110<br>
+<a href="http://www.e-collectique.com">e-collectique.com</a><br>
+<br>
+
 <strong>Remington's River Inn</strong><br>
 130 South Main Street<br>
 (262) 238-2697<br>

@@ -12,6 +12,7 @@ We employ technicians certified by the National Institute for Automobile Service
 <strong>Our automotive repair services include the following:</strong><br>
 <ul>
   <li>Scheduled Services (30,000, 60,000, etc)</li>
+  <li>Tires</li>
   <li>Tune Ups</li>
   <li>Lube, Oil and Filter</li>
   <li>Brakes</li>
