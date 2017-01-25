@@ -334,14 +334,10 @@ A.arrow:hover, A.arrow:active {
   height: auto;
 }
 
-.footer-logos {
-  text-align: center;
-}
-
 .footer-logos IMG {
-  max-width: 40%;
+  max-width: 23%;
   height: auto;
-  margin: 0 4.7%;
+  margin-right: 8%;
   vertical-align: middle;
 }
 
