@@ -341,6 +341,10 @@ A.arrow:hover, A.arrow:active {
   vertical-align: middle;
 }
 
+.social {
+  float: right;
+}
+
 #footer {
   margin: 22px auto 22px;
   width: 772px;

@@ -14,6 +14,11 @@
       <div class="footer-logos">
         <img src="images/logo-amsoil.png" alt="">
         <img src="images/logo-nokian-tires.jpg" alt="">
+        
+        <div class="social">
+          <a href="http://www.facebook.com/pages/Quick-Care-Auto/145397368834683?v=info" id="facebook"></a>
+          <a href="http://twitter.com/Quickcareauto" id="twitter"></a>
+        </div>
       </div>
     </div> <!-- END main -->
     
@@ -27,7 +32,6 @@
     <a href="general-services.php">general services</a>
     <a href="resources.php">resources</a>
     <a href="specials.php">specials</a>
-    <a href="cars-for-sale.php">cars for sale</a>
     <a href="location-contact.php">location/contact</a>
   </div>
   

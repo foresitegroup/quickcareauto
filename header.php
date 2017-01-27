@@ -19,7 +19,7 @@ function email($address, $name="") {
   <META name="keywords" content="tune up, engine repair, tires, mufflers, auto repair, detailing, detail, Milwaukee, Wisconsin, Thiensville, Mequon, buffing, waxing, shampooing, hand wash, fleet cars, maintenance, ase certified, deals">
   <title>Quick Care Auto<?php if ($PageTitle != "") { echo " | " . $PageTitle; } ?></title>
   <link rel="shortcut icon" href="images/favicon.ico">
-  <link rel="stylesheet" href="inc/qca2010.css" type="text/css" media="screen,print">
+  <link rel="stylesheet" href="inc/qca2010.css?<?php echo filemtime('inc/qca2010.css'); ?>" type="text/css" media="screen,print">
   <script type="text/javascript" src="inc/jquery-1.5.1.js"></script>
   <script type="text/javascript" src="inc/jquery.cycle.all.js"></script>
   <script type="text/javascript">
@@ -69,7 +69,7 @@ function email($address, $name="") {
         <a href="our-neighborhood.php" class="arrow">More Info</a>
       </div>
       <br>
-
+      <!-- 
       <a href="http://www.facebook.com/pages/Quick-Care-Auto/145397368834683?v=info" id="facebook"></a>
       <a href="http://twitter.com/Quickcareauto" id="twitter"></a>
 
@@ -82,7 +82,7 @@ function email($address, $name="") {
         </div>
       </form>
 
-      <img src="images/credit-cards.jpg" alt="MasterCard / Visa" style="margin-top: 40px;">
+      <img src="images/credit-cards.jpg" alt="MasterCard / Visa" style="margin-top: 40px;"> -->
     </div> <!-- END sidebar -->
 
     <div id="main">
