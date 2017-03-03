@@ -31,7 +31,7 @@ Quick Care Auto is located at 185 S. Main Street Thiensville.  The phone number 
 <br>
 
 <!--<div style="float: left; width: 350px;">-->
-  <strong>Anthony Reyes</strong> is an ASE certified automotive technician with a degree from the Universal Technical Institute located in Glendale Heights, Illinois, graduating with Director's Honors with a degree in Automotive Technology. This degree requires extensive course work, covering all aspects of automotive repair along with a minimum of 1500 hours of classroom and hands on work.  Over the years, Anthony has worked at Midas, Goodyear and his last place of employment was at Five Corners Dodge.  Quick Care Auto welcomes Anthony Reyes to our team.  With Anthony on board, your vehicles will be in good hands.<br>
+  <strong>Anthony Reyes</strong> is an ASE <strong>MASTER</strong> certified automotive technician with a degree from the Universal Technical Institute located in Glendale Heights, Illinois, graduating with Director's Honors with a degree in Automotive Technology. This degree requires extensive course work, covering all aspects of automotive repair along with a minimum of 1500 hours of classroom and hands on work. Over the years, Anthony has worked at Midas, Goodyear and Five Corners Dodge in Cedarburg. With Anthony on board, your vehicles will be in good hands.<br>
   <br>
   <strong>Certifications</strong>
   <ul>
@@ -41,17 +41,19 @@ Quick Care Auto is located at 185 S. Main Street Thiensville.  The phone number 
     <li>Boss Plow School Certification</li>
     <li>Sno-Way Plow School Certification</li>
     <li>
-      ASE Certifications
+      ASE <strong>MASTER</strong> Certifications
       <ul>
         <li>Engine Repair</li>
         <li>Manual Drive Train and Axles</li>
         <li>Suspension and Steering</li>
         <li>Brakes</li>
         <li>Heating and Air Conditioning</li>
+        <li>Automatic Trans/Transaxle</li>
+        <li>Electrical/Electronic Systems</li>
       </ul>
     </li>
   </ul>
-  
+
 <!--
 </div>
 
