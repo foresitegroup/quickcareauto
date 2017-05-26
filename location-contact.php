@@ -5,9 +5,9 @@ include "header.php";
 ?>
 
 <div style="float: right; text-align: right; margin-left: 50px;">
-  <iframe width="460" height="460" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=185+S+Main+St.+Thiensville,+WI+53092&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=185+S+Main+St,+Thiensville,+Ozaukee,+Wisconsin+53092&amp;source=embed&amp;ll=43.22832,-87.984867&amp;spn=0.025016,0.034246&amp;z=14&amp;iwloc=I&amp;output=embed"></iframe>
+  <iframe width="460" height="460" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="//maps.google.com/maps?q=185+S+Main+St.+Thiensville,+WI+53092&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=185+S+Main+St,+Thiensville,+Ozaukee,+Wisconsin+53092&amp;source=embed&amp;ll=43.22832,-87.984867&amp;spn=0.025016,0.034246&amp;z=14&amp;iwloc=I&amp;output=embed"></iframe>
   <br>
-  <small><a href="http://maps.google.com/maps?q=185+S+Main+St.+Thiensville,+WI+53092&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=185+S+Main+St,+Thiensville,+Ozaukee,+Wisconsin+53092&amp;source=embed&amp;ll=43.22832,-87.984867&amp;spn=0.025016,0.034246&amp;z=14&amp;iwloc=A">View Larger Map</a></small>
+  <small><a href="//maps.google.com/maps?q=185+S+Main+St.+Thiensville,+WI+53092&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=185+S+Main+St,+Thiensville,+Ozaukee,+Wisconsin+53092&amp;source=embed&amp;ll=43.22832,-87.984867&amp;spn=0.025016,0.034246&amp;z=14&amp;iwloc=A" target="new">View Larger Map</a></small>
 </div>
 
 Quick Care Auto<br>
